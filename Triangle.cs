@@ -38,8 +38,7 @@ namespace Labb5
                 }
 
             }
-            double triangleArea = lenght * height / 2; //Uträkningen för arean
-            return triangleArea; // Retunerar arean på triangeln
+            return lenght * height / 2; // Retunerar arean på triangeln
         }
     }
 }
